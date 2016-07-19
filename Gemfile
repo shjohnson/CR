@@ -5,7 +5,7 @@ source 'https://rubygems.org'
 # gem 'unicorn'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
-
+gem 'devise'
 gem 'jquery-rails'
 gem 'jbuilder', '~> 2.0'
 gem 'pg', '~> 0.15'
